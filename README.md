@@ -11,4 +11,4 @@ This repository contains my implementations of key deep learning papers, built f
 - **Neural Networks**: MLP, CNN, RNN, LSTM, GRU
 - **Transformers**: Attention Is All You Need, GPT, BERT
 - **Representation Learning**: Word2Vec, GloVe
-- **Generative Models**: GANs, VAEs
+
